@@ -189,7 +189,7 @@ Return ONLY the below short LinkedIn pitch:
 
 Hi [First Name],
 
-I noticed {company_name} excels in {industry}, offering: {products_text}.  
+I noticed {company_name} excels in {industry}, offering: {products_text}, across {countries}. 
 
 We help teams connect with:  
 • Ideal Customers: {', '.join(ideal_customers) if ideal_customers else 'Your best-fit customers'}  
